@@ -5,7 +5,7 @@
 </div>
 
   <div padding="20px 30px">👻 Estou estudando javascript </div> 
-  <div>😍 Sou front-end</div>
+  <div>😍 Sou Back-end</div>
   <div>⛈️ Sou inciante nesta area</div>
 
 
