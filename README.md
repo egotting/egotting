@@ -6,6 +6,6 @@
 
   <div padding="20px 30px">👻 Estou estudando java </div> 
   <div>😍 Sou Back-end</div>
-  <div>⛈️ Sou inciante nesta area</div>
+  <div>⛈️ Sou iniciante nesta área</div>
 
 
