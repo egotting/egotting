@@ -26,7 +26,7 @@
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <div>------------------</div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantaasyyy&show_icons=true&theme=dark&title_color=d4bdff&bg_color=1e0057&locale=en&layout=compact" alt="fantaasyyy" /></p>
+<p><img align="right" margin-top="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantaasyyy&show_icons=true&theme=dark&title_color=d4bdff&bg_color=1e0057&locale=en&layout=compact" alt="fantaasyyy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fantaasyyy&show_icons=true&locale=en" alt="fantaasyyy" /></p>
 
