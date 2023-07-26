@@ -31,13 +31,36 @@
 
  <hr style="border: 1px solid black;">
   Redes Sociais
+  
 <p align="center">
 <a href="https://twitter.com/fvckhenrico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fvckhenrico" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlos henrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos henrique" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/fvckhenrico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fvckhenrico/" height="30" width="40" /></a>
 
- Linguagens
- <p align="center" > <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Linguagens
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="100">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Java
+      </td>
+      <td align="center" width="100">
+        <a href="#git" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+    </tr>
+  </table>
 </p>
 
  Podem me contatar **hnerisantos@gmail.com**
