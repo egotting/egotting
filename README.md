@@ -38,30 +38,7 @@
 <a href="https://instagram.com/https://www.instagram.com/fvckhenrico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fvckhenrico/" height="30" width="40" /></a>
 
 Linguagens
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <a href="#macropower-tech">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <a href="#macropower-tech">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-        </a>
-        <br>Java
-      </td>
-      <td align="center" width="100">
-        <a href="#git" >
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-    </tr>
-  </table>
-</p>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="59" height="59" /></div>
 
  Podem me contatar **hnerisantos@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fantaasyyy&label=%F0%9F%91%80&color=000000&style=flat" alt="fantaasyyy" /> </p>
