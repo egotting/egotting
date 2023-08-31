@@ -7,7 +7,7 @@
 </div>
 
 
-<strong><p>Prazer! Meu nome é Henrique <strong></strong> Tenho 17 anos. Comecei a estudar programação em 2023 e me interesso por Ciência da computação.
+<strong><p>Prazer! Meu nome é Henrique <strong></strong> Tenho 18 anos. Comecei a estudar programação em 2023 e me interesso por Ciência da computação.
  - *Sou desenvolvedor mobile. Atualmente estudo java, kotlin e React Native, por hobby eu acabo estudando outras linguagens, como você poderá ver logo a baixo ex: C#, C++ entre outros.*
 
 <div align="center">
