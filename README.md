@@ -1,14 +1,14 @@
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Henrico&fontSize=50&color=FFFFFF&height=105&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+Bem-vindo+ao+meu+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=D2D2D2D4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+henrique+e..;Bem-vindo(a)+ao+meu+github+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <div style="display:inline_block" align="center" height="100vh"> <br>
     <img align="center" width="30%" loop src="https://64.media.tumblr.com/bd54cf2a6fbfdb97230af9306b04b3c3/tumblr_np6rm6BGAO1ux08two1_500.gif">
 </div>
 
 
-<strong><p>Prazer! Meu nome é Henrique <strong></strong> Tenho 17 anos. Comecei a estudar programação esse ano e me interesso por desenvolvimento web
- - Sou desenvolvedor backend, utilizo java e python para os meus projetos.
+<strong><p>Prazer! Meu nome é Henrique <strong></strong> Tenho 17 anos. Comecei a estudar programação em 2023 e me interesso por Ciência da computação.
+ - *Sou desenvolvedor mobile. Atualmente estudo java, kotlin e React Native, por hobby eu acabo estudando outras linguagens, como você poderá ver logo a baixo ex: C#, C++ entre outros.*
 
 <div align="center">
 <hr style="border: 1px solid black;">
