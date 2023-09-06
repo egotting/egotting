@@ -39,7 +39,7 @@
  
 # 🤔 Grau de Tecnologias que eu domino:
 [![My Skills](https://skillicons.dev/icons?i=java,&perline=3)](https://skillicons.dev)=====70%
-[![My Skills](https://skillicons.dev/icons?i=flutter,&perline=3)](https://skillicons.dev)=====60%
+[![My Skills](https://skillicons.dev/icons?i=git,&perline=3)](https://skillicons.dev)=====60%
 [![My Skills](https://skillicons.dev/icons?i=kotlin,&perline=3)](https://skillicons.dev)=====30%
 [![My Skills](https://skillicons.dev/icons?i=flutter,&perline=3)](https://skillicons.dev)=====10%
 
