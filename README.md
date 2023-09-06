@@ -45,6 +45,7 @@
 
 
 
+
  Podem me contatar **hnerisantos@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fantaasyyy&label=%F0%9F%91%80&color=000000&style=flat" alt="fantaasyyy" /> </p>
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
