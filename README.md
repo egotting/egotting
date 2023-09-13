@@ -37,7 +37,7 @@
 <a href="https://linkedin.com/in/carlos henrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos henrique" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/fvckhenrico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fvckhenrico/" height="30" width="40" /></a>
  
-# 🤔 Grau de Tecnologias que eu domino:
+# 🤔 Tabela de Tecnologias que eu domino:
 [![My Skills](https://skillicons.dev/icons?i=java,&perline=3)](https://skillicons.dev)=====70%
 [![My Skills](https://skillicons.dev/icons?i=git,&perline=3)](https://skillicons.dev)=====60%
 [![My Skills](https://skillicons.dev/icons?i=kotlin,&perline=3)](https://skillicons.dev)=====30%
