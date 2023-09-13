@@ -36,12 +36,17 @@
 <a href="https://twitter.com/fvckhenrico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fvckhenrico" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlos henrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos henrique" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/fvckhenrico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fvckhenrico/" height="30" width="40" /></a>
- 
+
+
 # 🤔 Tabela de Tecnologias que eu domino:
-[![My Skills](https://skillicons.dev/icons?i=java,&perline=3)](https://skillicons.dev)=====70%
-[![My Skills](https://skillicons.dev/icons?i=git,&perline=3)](https://skillicons.dev)=====60%
-[![My Skills](https://skillicons.dev/icons?i=kotlin,&perline=3)](https://skillicons.dev)=====30%
-[![My Skills](https://skillicons.dev/icons?i=flutter,&perline=3)](https://skillicons.dev)=====10%
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java"/> <p>70%</p>
+    <img src="https://skillicons.dev/icons?i=git"/> <p>70%</p>
+    <img src="https://skillicons.dev/icons?i=kotlin"/> <p>30%</p>
+    <img src="https://skillicons.dev/icons?i=flutter"/> <p>10%</p>
+  </a>
+</p>
 
 
 
