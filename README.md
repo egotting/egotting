@@ -42,9 +42,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java"/> <p>70%</p>
+    <img src="https://skillicons.dev/icons?i=kotlin"/> <p>70%</p>
     <img src="https://skillicons.dev/icons?i=git"/> <p>70%</p>
-    <img src="https://skillicons.dev/icons?i=kotlin"/> <p>30%</p>
-    <img src="https://skillicons.dev/icons?i=flutter"/> <p>10%</p>
+    
   </a>
 </p>
 
