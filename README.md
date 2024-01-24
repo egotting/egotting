@@ -37,8 +37,9 @@ class Main{
     }
 }
 ```
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fantaasyyy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="fantaasyyy" /></p>
+<div align="center">
+  &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=fantaasyyy&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="fantaasyyy" />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fantaasyyy&bg_color=000000&color=ffffff&line=c7c7c7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
