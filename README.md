@@ -15,12 +15,12 @@
 <hr style="border: 1px solid black;">
 
 ```java
-class ThePercentageLenguagesIKnow {
+class ThePercentageLanguagesIKnow {
 
     String lenguage;
     Integer percentage;
 
-    ThePercentageLenguagesIKnow(String lenguage, Integer percentage){
+    ThePercentageLanguagesIKnow(String lenguage, Integer percentage){
         this.lenguage = lenguage;
         this.percentage = percentage;
     };
@@ -28,12 +28,12 @@ class ThePercentageLenguagesIKnow {
 
 class Main{
     public static void main (String[] args){
-        ThePercentageLenguagesIKnow Java =
-                new ThePercentageLenguagesIKnow("Java", 27%);
-        ThePercentageLenguagesIKnow  CPP =
-                new ThePercentageLenguagesIKnow("CPP", 17%);
-        ThePercentageLenguagesIKnow  CSharp =
-                new ThePercentageLenguagesIKnow("CSharp", 12%);
+        ThePercentageLanguagesIKnow Java =
+                new ThePercentageLanguagesIKnow("Java", 27%);
+        ThePercentageLanguagesIKnow  CPP =
+                new ThePercentageLanguagesIKnow("CPP", 17%);
+        ThePercentageLanguagesIKnow  CSharp =
+                new ThePercentageLanguagesIKnow("CSharp", 12%);
     }
 }
 ```
