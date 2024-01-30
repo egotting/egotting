@@ -1,4 +1,4 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Henrico&fontSize=50&color=FFFFFF&height=105&section=header"/></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Ego&fontSize=50&color=FFFFFF&height=105&section=header"/></div>
 <div align="center">
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=D2D2D2D4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+henrique+e..;Bem-vindo(a)+ao+meu+github+%F0%9F%98%81)](https://git.io/typing-svg)
