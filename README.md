@@ -31,9 +31,9 @@ class Main{
         ThePercentageLanguagesIKnow Java =
                 new ThePercentageLanguagesIKnow("Java", 27%);
         ThePercentageLanguagesIKnow  CPP =
-                new ThePercentageLanguagesIKnow("CPP", 17%);
+                new ThePercentageLanguagesIKnow("CSharp", 20%);
         ThePercentageLanguagesIKnow  CSharp =
-                new ThePercentageLanguagesIKnow("CSharp", 12%);
+                new ThePercentageLanguagesIKnow("Cpp", 17%);
     }
 }
 ```
