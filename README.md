@@ -1,7 +1,9 @@
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Ego&fontSize=50&color=FFFFFF&height=105&section=header"/></div>
 <div align="center">
+
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=D2D2D2D4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+henrique+e..;Bem-vindo(a)+ao+meu+github+%F0%9F%98%81)](https://git.io/typing-svg)
+ ![5e43c37e926a4086aab368981bfccb96](https://github.com/fantaasyyy/fantaasyyy/assets/104780505/a740b9c9-7b52-4fa7-9e19-1053508c369e)
+
 
 
  <img align="center" padding="50px" width="30%" loop src="https://64.media.tumblr.com/bd54cf2a6fbfdb97230af9306b04b3c3/tumblr_np6rm6BGAO1ux08two1_500.gif">
