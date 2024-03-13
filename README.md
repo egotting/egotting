@@ -2,11 +2,13 @@
 <div align="center">
 
  
- ![5e43c37e926a4086aab368981bfccb96](https://github.com/fantaasyyy/fantaasyyy/assets/104780505/a740b9c9-7b52-4fa7-9e19-1053508c369e)
+![271a40e8e1b536324f1f75aed61e7284](https://github.com/fantaasyyy/fantaasyyy/assets/104780505/d3825758-96bb-4e22-aa97-005048187e9d)
 
 
 
- <img align="center" padding="50px" width="30%" loop src="https://64.media.tumblr.com/bd54cf2a6fbfdb97230af9306b04b3c3/tumblr_np6rm6BGAO1ux08two1_500.gif">
+
+
+ 
 
  <hr style="border: 1px solid black;">
 
