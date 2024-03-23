@@ -34,9 +34,9 @@ class Main{
     public static void main (String[] args){
         ThePercentageLanguagesIKnow Java =
                 new ThePercentageLanguagesIKnow("Java", 27%);
-        ThePercentageLanguagesIKnow  CPP =
-                new ThePercentageLanguagesIKnow("CSharp", 20%);
         ThePercentageLanguagesIKnow  CSharp =
+                new ThePercentageLanguagesIKnow("CSharp", 20%);
+        ThePercentageLanguagesIKnow  CPP =
                 new ThePercentageLanguagesIKnow("Cpp", 17%);
     }
 }
