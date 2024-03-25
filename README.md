@@ -12,9 +12,7 @@
 
  <hr style="border: 1px solid black;">
 
- > <strong>Prazer! Meu nome é Henrique </strong> Tenho 18 anos. Comecei a estudar programação em 2023 e me interesso por Engenharia de software des entao.
-   Sou desenvolvedor, nao sei ainda oq eu irei seguir mas tento saber um pouco de cada area. Atualmente em 2024, estou cursando <strong>Analise e Desenvolvimento de Sistemas</strong> e estou dentro de alguns projetos e tbm desenvolvo 
-   o meu proprio, o "ModFabric" que vc podera ver no meu perfil. ultimamente estou estudando java, C# e C++ e pretendo masterizar essas tres linguagens e comecar aprender mais 2 ate o final de 2024.
+ <div> <strong>Prazer! Meu nome é Henrique </strong> Tenho 18 anos. Comecei a estudar programação em 2023 e me interesso por Engenharia de Software desde então. Sou desenvolvedor, ainda não sei exatamente qual caminho seguir, mas tento aprender um pouco de cada área. Atualmente, em 2024, estou cursando <strong>Analise e Desenvolvimento de Sistemas</strong> e estou envolvido em alguns projetos. Recentemente, tenho me dedicado ao estudo de C#, ASP.NET Core MVC e pretendo dominar essa linguagem e começar a aprender mais duas até o final de 2024.
 </div>
 <hr style="border: 1px solid black;">
 
