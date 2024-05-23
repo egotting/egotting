@@ -17,13 +17,10 @@
  <h3>Software Engineer</h3>
  
   - Linguagens & Tecnologias:
-     * `C#`,
-     * `aspnet`,
-     * `EntityFramework`,
+     * `C#`,`aspnet`,`EntityFramework`,
      * `Java`, `SpringBoot`,
      * `GoLang`,
-     * `Postgresql`,
-     * `SaltStack`,
+     * `Postgresql`,`SqlServer`,`SqLite`
 <br/>
 
 
