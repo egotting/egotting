@@ -12,9 +12,9 @@
   },
 }
 ```
+![output](https://github.com/egotting/egotting/assets/104780505/c5feb3a3-0a88-4093-ba52-1f6cd038be75)
+
+
 <div >
  <img style="border-radius:50%;" align="right" height="200px" width="200px" alt="Warpnet"  src="https://i.pinimg.com/originals/a5/de/9d/a5de9db4445e577ffb4aa09c3d73dc09.jpg"<a href="https://github.com/fantaasyyy?tab=repositories"></a></img>
-
 </div>
-
-![output](https://github.com/egotting/egotting/assets/104780505/c5feb3a3-0a88-4093-ba52-1f6cd038be75)
