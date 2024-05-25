@@ -12,4 +12,8 @@
   },
 }
 ```
+<div align=center height=auto width=auto>
+  
 ![output](https://github.com/egotting/egotting/assets/104780505/c5feb3a3-0a88-4093-ba52-1f6cd038be75)
+
+</div>
