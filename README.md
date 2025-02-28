@@ -5,7 +5,6 @@ import Desenvolvedor from "ego";
 class SobreMim extends Desenvolvedor {
   nome = "Carlos Henrique";
   area = "Desenvolvedor Web";
-  trabalho = " Disponivel para Trabalhos";
   local = "Rio de Janeiro";
 }
 
