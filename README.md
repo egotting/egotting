@@ -1,19 +1,18 @@
-```json
-{
-  "Henrique": {
-    "presentation": [
-       "hi, i'm henrique, nice to meet u and i`m a brazilian developer"
-       "and i love make APIs using aspnet, springboot and golang."
-       "I prefer work in back-end but if has task that i create a front-end, i make."
-  
-       "I apply clean architecture, solid and mvc in all my projects and"
-       "i continue study architecture to apply in future projects."
-    ]
-  },
+
+```js
+import Desenvolvedor from "ego";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Carlos Henrique";
+  area = "Desenvolvedor Web";
+  trabalho = " Disponivel para Trabalhos";
+  local = "Rio de Janeiro";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["C#", "Java", "Typescript"];
+  bibliotecas = ["EntityframeworkCore"];
+  frameworks = ["ASP.NET", "SpringBoot"];
+  bancoDeDados = ["Postgresql", "SqlServer", "SqlLite"]
 }
 ```
-<div align=center height=auto width=auto>
-  
-![output](https://github.com/egotting/egotting/assets/104780505/c5feb3a3-0a88-4093-ba52-1f6cd038be75)
-
-</div>
