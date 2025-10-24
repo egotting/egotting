@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens = ["C#", "Java", "Typescript"];
   bibliotecas = ["EntityframeworkCore","JDBC", "JPA"];
-  testes =["JUnit", "Mokito"];
+  testes =["JUnit", "xUnit"];
   frameworks = ["ASP.NET", "SpringBoot"];
   DB = ["Postgresql", "Sqlite", "SqlServer"];
 }
